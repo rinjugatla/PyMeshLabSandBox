@@ -1,0 +1,3 @@
+certutil -hashfile 2hole_optimized_by_meshlab.stl SHA256
+certutil -hashfile 2hole_optimized_by_script_function.stl SHA256
+certutil -hashfile 2hole_optimized_by_script_xlm.stl SHA256
